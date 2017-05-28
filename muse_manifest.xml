@@ -1,0 +1,252 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="pusatsejahterawaniiazmi.com" resolutions="1x" timestamp="1495959102047">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_c-master.css" crc="47432864" ref="dialysis:firstfloor:toilet1:ro:rawatan:bedah:fisio:lab:bilikaura,bilikberhntimerokok,kaunseling:ibnusina:pejpentdbiran:jasabudi:dental"/>
+    <file name="master_a-master.css" crc="3872505474" ref="index"/>
+    <file name="master_d-master.css" crc="326039092" ref="services:about:contact:directory"/>
+    <file name="master_b-master.css" crc="3761085665" ref="bilikketuanurse:bilikdr:ward:groundfloor:bilikrawatan:klinikal:vip:farmasi:xray:toilet:bilikmsyuarat:dressingroom"/>
+    <file name="dialysis.css" crc="3991758930" ref="dialysis"/>
+    <file name="index.css" crc="419015516" ref="index"/>
+    <file name="firstfloor.css" crc="5474207" ref="firstfloor"/>
+    <file name="toilet1.css" crc="3795244602" ref="toilet1"/>
+    <file name="ro.css" crc="4159939519" ref="ro"/>
+    <file name="bilikketuanurse.css" crc="4051750252" ref="bilikketuanurse"/>
+    <file name="bilikdr.css" crc="4054342333" ref="bilikdr"/>
+    <file name="rawatan.css" crc="255062802" ref="rawatan"/>
+    <file name="services.css" crc="3919492503" ref="services"/>
+    <file name="bedah.css" crc="367639725" ref="bedah"/>
+    <file name="ward.css" crc="124140186" ref="ward"/>
+    <file name="about.css" crc="90503152" ref="about"/>
+    <file name="groundfloor.css" crc="4203948354" ref="groundfloor"/>
+    <file name="fisio.css" crc="3898139079" ref="fisio"/>
+    <file name="bilikrawatan.css" crc="4151573634" ref="bilikrawatan"/>
+    <file name="lab.css" crc="4076283281" ref="lab"/>
+    <file name="klinikal.css" crc="534427451" ref="klinikal"/>
+    <file name="vip.css" crc="211545154" ref="vip"/>
+    <file name="farmasi.css" crc="4283026491" ref="farmasi"/>
+    <file name="bilikaura_bilikberhntimerokok_kaunseling.css" crc="481349603" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="ibnusina.css" crc="4219964444" ref="ibnusina"/>
+    <file name="xray.css" crc="3884405703" ref="xray"/>
+    <file name="toilet.css" crc="288882232" ref="toilet"/>
+    <file name="pejpentdbiran.css" crc="3911874212" ref="pejpentdbiran"/>
+    <file name="jasabudi.css" crc="368506153" ref="jasabudi"/>
+    <file name="bilikmsyuarat.css" crc="13244064" ref="bilikmsyuarat"/>
+    <file name="contact.css" crc="362599997" ref="contact"/>
+    <file name="dental.css" crc="334376261" ref="dental"/>
+    <file name="directory.css" crc="4036698201" ref="directory"/>
+    <file name="dressingroom.css" crc="4162365752" ref="dressingroom"/>
+  </folder>
+  <folder name="assets">
+    <file name="untitled-1.avi" crc="243350163" seo="true" mt="1495212279000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="webpro.js" crc="3848665353" ref="index:services:contact"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="require.js" crc="244322403" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="services"/>
+    <file name="form_check.php" crc="158155501" ref="contact"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact"/>
+    <file name="form_process.php" crc="4078697226" ref="contact"/>
+    <file name="form-u22239.php" crc="3939603718" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u23737-4.png" crc="353087248" ref="index"/>
+    <file name="web_banner_minggu_kesihatan_2017.jpg" crc="4145659820" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cemacs.jpg" crc="3900781926" seo="true" ref="index"/>
+    <file name="pulang_ubat.jpg" crc="402711201" seo="true" ref="index"/>
+    <file name="sfth.jpg" crc="4189794469" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="untitled-10001.gif" crc="4278981458" seo="true" ref="index"/>
+    <file name="untitled-10002.gif" crc="3785195157" seo="true" ref="index"/>
+    <file name="untitled-10003.gif" crc="194233096" seo="true" ref="index"/>
+    <file name="untitled-10004.gif" crc="3858701309" seo="true" ref="index"/>
+    <file name="untitled-10005.gif" crc="4249658036" seo="true" ref="index"/>
+    <file name="untitled-10006.gif" crc="496890285" seo="true" ref="index"/>
+    <file name="untitled-10007.gif" crc="4265309872" seo="true" ref="index"/>
+    <file name="untitled-10008.gif" crc="4000709614" seo="true" ref="index"/>
+    <file name="untitled-10009.gif" crc="25517066" seo="true" ref="index"/>
+    <file name="untitled-10010.gif" crc="3768350076" seo="true" ref="index"/>
+    <file name="untitled-10011.gif" crc="441476244" seo="true" ref="index"/>
+    <file name="untitled-10012.gif" crc="4077388717" seo="true" ref="index"/>
+    <file name="untitled-10013.gif" crc="218630402" seo="true" ref="index"/>
+    <file name="untitled-10014.gif" crc="362031756" seo="true" ref="index"/>
+    <file name="untitled-10015.gif" crc="353080227" seo="true" ref="index"/>
+    <file name="untitled-10016.gif" crc="4176051137" seo="true" ref="index"/>
+    <file name="untitled-10017.gif" crc="274962631" seo="true" ref="index"/>
+    <file name="untitled-10018.gif" crc="163307448" seo="true" ref="index"/>
+    <file name="untitled-10019.gif" crc="4255545134" seo="true" ref="index"/>
+    <file name="untitled-10020.gif" crc="256053378" seo="true" ref="index"/>
+    <file name="untitled-10021.gif" crc="16903486" seo="true" ref="index"/>
+    <file name="untitled-10022.gif" crc="4039287723" seo="true" ref="index"/>
+    <file name="untitled-10023.gif" crc="4179665704" seo="true" ref="index"/>
+    <file name="untitled-10024.gif" crc="3853167648" seo="true" ref="index"/>
+    <file name="untitled-10025.gif" crc="219322574" seo="true" ref="index"/>
+    <file name="untitled-10026.gif" crc="406840671" seo="true" ref="index"/>
+    <file name="untitled-10027.gif" crc="61181359" seo="true" ref="index"/>
+    <file name="untitled-10028.gif" crc="28340626" seo="true" ref="index"/>
+    <file name="untitled-10029.gif" crc="514036575" seo="true" ref="index"/>
+    <file name="untitled-10030.gif" crc="4247832196" seo="true" ref="index"/>
+    <file name="untitled-10031.gif" crc="3912981057" seo="true" ref="index"/>
+    <file name="untitled-10032.gif" crc="238126521" seo="true" ref="index"/>
+    <file name="untitled-10033.gif" crc="83286553" seo="true" ref="index"/>
+    <file name="untitled-10034.gif" crc="4127547315" seo="true" ref="index"/>
+    <file name="untitled-10035.gif" crc="262675638" seo="true" ref="index"/>
+    <file name="untitled-10036.gif" crc="4029062878" seo="true" ref="index"/>
+    <file name="untitled-10037.gif" crc="4068623646" seo="true" ref="index"/>
+    <file name="untitled-10038.gif" crc="200539692" seo="true" ref="index"/>
+    <file name="untitled-10039.gif" crc="4004199772" seo="true" ref="index"/>
+    <file name="untitled-10040.gif" crc="3763355345" seo="true" ref="index"/>
+    <file name="untitled-10041.gif" crc="27637418" seo="true" ref="index"/>
+    <file name="untitled-10042.gif" crc="3962747567" seo="true" ref="index"/>
+    <file name="untitled-10043.gif" crc="69726408" seo="true" ref="index"/>
+    <file name="untitled-10044.gif" crc="235736575" seo="true" ref="index"/>
+    <file name="untitled-10045.gif" crc="164727820" seo="true" ref="index"/>
+    <file name="untitled-10046.gif" crc="4075387384" seo="true" ref="index"/>
+    <file name="untitled-10047.gif" crc="3790727100" seo="true" ref="index"/>
+    <file name="untitled-10048.gif" crc="4083778840" seo="true" ref="index"/>
+    <file name="untitled-10049.gif" crc="3899871175" seo="true" ref="index"/>
+    <file name="untitled-10050.gif" crc="4000183314" seo="true" ref="index"/>
+    <file name="untitled-10051.gif" crc="342776567" seo="true" ref="index"/>
+    <file name="untitled-10052.gif" crc="29487944" seo="true" ref="index"/>
+    <file name="untitled-10053.gif" crc="310160552" seo="true" ref="index"/>
+    <file name="untitled-10054.gif" crc="47711734" seo="true" ref="index"/>
+    <file name="untitled-10055.gif" crc="53064646" seo="true" ref="index"/>
+    <file name="untitled-10056.gif" crc="2954653" seo="true" ref="index"/>
+    <file name="untitled-10057.gif" crc="3907561359" seo="true" ref="index"/>
+    <file name="untitled-10058.gif" crc="224295478" seo="true" ref="index"/>
+    <file name="untitled-10059.gif" crc="495145427" seo="true" ref="index"/>
+    <file name="untitled-10060.gif" crc="4065783302" seo="true" ref="index"/>
+    <file name="untitled-10061.gif" crc="279550786" seo="true" ref="index"/>
+    <file name="untitled-10062.gif" crc="209333254" seo="true" ref="index"/>
+    <file name="untitled-10063.gif" crc="3988838295" seo="true" ref="index"/>
+    <file name="untitled-10064.gif" crc="454027869" seo="true" ref="index"/>
+    <file name="untitled-10065.gif" crc="3901691562" seo="true" ref="index"/>
+    <file name="untitled-10066.gif" crc="38819309" seo="true" ref="index"/>
+    <file name="untitled-10067.gif" crc="23709478" seo="true" ref="index"/>
+    <file name="untitled-10068.gif" crc="3896199656" seo="true" ref="index"/>
+    <file name="untitled-10069.gif" crc="3759082231" seo="true" ref="index"/>
+    <file name="untitled-10070.gif" crc="3981447695" seo="true" ref="index"/>
+    <file name="untitled-10071.gif" crc="3938626048" seo="true" ref="index"/>
+    <file name="untitled-10072.gif" crc="512527107" seo="true" ref="index"/>
+    <file name="untitled-10073.gif" crc="3759866689" seo="true" ref="index"/>
+    <file name="untitled-10074.gif" crc="409904739" seo="true" ref="index"/>
+    <file name="untitled-10075.gif" crc="4270803780" seo="true" ref="index"/>
+    <file name="untitled-10076.gif" crc="3825665330" seo="true" ref="index"/>
+    <file name="untitled-10077.gif" crc="45417046" seo="true" ref="index"/>
+    <file name="untitled-10078.gif" crc="288794882" seo="true" ref="index"/>
+    <file name="untitled-10079.gif" crc="4019011052" seo="true" ref="index"/>
+    <file name="untitled-10080.gif" crc="319617870" seo="true" ref="index"/>
+    <file name="untitled-10081.gif" crc="214866727" seo="true" ref="index"/>
+    <file name="untitled-10082.gif" crc="81732481" seo="true" ref="index"/>
+    <file name="untitled-10083.gif" crc="348696236" seo="true" ref="index"/>
+    <file name="untitled-10084.gif" crc="3783274956" seo="true" ref="index"/>
+    <file name="untitled-10085.gif" crc="345870882" seo="true" ref="index"/>
+    <file name="untitled-10086.gif" crc="3963930738" seo="true" ref="index"/>
+    <file name="untitled-10087.gif" crc="3779777312" seo="true" ref="index"/>
+    <file name="untitled-10088.gif" crc="331352008" seo="true" ref="index"/>
+    <file name="untitled-10089.gif" crc="4170415848" seo="true" ref="index"/>
+    <file name="untitled-10090.gif" crc="120762670" seo="true" ref="index"/>
+    <file name="untitled-10091.gif" crc="274999794" seo="true" ref="index"/>
+    <file name="untitled-10092.gif" crc="3828105621" seo="true" ref="index"/>
+    <file name="untitled-10093.gif" crc="3807400904" seo="true" ref="index"/>
+    <file name="untitled-10094.gif" crc="4069481309" seo="true" ref="index"/>
+    <file name="untitled-10095.gif" crc="4231667349" seo="true" ref="index"/>
+    <file name="untitled-10096.gif" crc="331838144" seo="true" ref="index"/>
+    <file name="untitled-10097.gif" crc="4246116768" seo="true" ref="index"/>
+    <file name="untitled-10098.gif" crc="77168719" seo="true" ref="index"/>
+    <file name="untitled-10099.gif" crc="520420137" seo="true" ref="index"/>
+    <file name="untitled-10100.gif" crc="252679146" seo="true" ref="index"/>
+    <file name="about.png" crc="226297706" seo="true" ref="index"/>
+    <file name="directory.png" crc="481039300" seo="true" ref="index"/>
+    <file name="services.png" crc="515990571" seo="true" ref="index"/>
+    <file name="contact.png" crc="419037783" seo="true" ref="index"/>
+    <file name="u24543-4.png" crc="3784184781" ref="about:services:contact:directory"/>
+    <file name="keyboard-left-arrow-button.png" crc="180083457" seo="true" ref="groundfloor:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="u24531-4.png" crc="6811932" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="bwhh.png" crc="4211161470" seo="true" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24563-4.png" crc="220907803" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24573-4.png" crc="501100650" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24576-4.png" crc="4074118105" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24579-4.png" crc="3800545386" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24582-4.png" crc="4155461527" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24588-4.png" crc="317903066" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24594-4.png" crc="360834395" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24597-4.png" crc="54255485" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24613-4.png" crc="54255485" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24600-4.png" crc="1600147" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="u24585-4.png" crc="86183367" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="toilet.png" crc="4062296133" seo="true" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi:toilet"/>
+    <file name="ats.png" crc="3809156111" seo="true" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u24537-4.png" crc="6811932" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29707-4.png" crc="4024847556" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29710-4.png" crc="3816974221" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29713-4.png" crc="4292557934" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29722-4.png" crc="3945009417" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29725-4.png" crc="4094048522" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29728-4.png" crc="4024237092" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29731-4.png" crc="214241055" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29771-4.png" crc="32592315" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29734-6.png" crc="4153649015" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29740-4.png" crc="4047941754" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29743-4.png" crc="3887498427" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29746-4.png" crc="474621255" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29749-4.png" crc="4099725787" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29716-4.png" crc="243332465" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="u29737-6.png" crc="107098316" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:toilet1"/>
+    <file name="animated-arrow-image-0276.gif" crc="2871750" seo="true" ref="dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="animated-arrow-image-0133.gif" crc="413146192" seo="true" ref="dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi:toilet:toilet1"/>
+    <file name="u28459-6.png" crc="4222132370" ref="dressingroom"/>
+    <file name="u29299-6.png" crc="4222132370" ref="xray"/>
+    <file name="u29079-6.png" crc="4222132370" ref="bilikmsyuarat"/>
+    <file name="u28933-6.png" crc="4222132370" ref="vip"/>
+    <file name="u28825-6.png" crc="4222132370" ref="klinikal"/>
+    <file name="u28717-6.png" crc="4222132370" ref="bilikrawatan"/>
+    <file name="u28609-6.png" crc="4222132370" ref="ward"/>
+    <file name="u28465-6.png" crc="4222132370" ref="bilikketuanurse"/>
+    <file name="u28462-6.png" crc="4222132370" ref="bilikdr"/>
+    <file name="u9031-4.png" crc="3896048638" ref="directory"/>
+    <file name="u9037-4.png" crc="4099085773" ref="directory"/>
+    <file name="u22128.png" crc="110363872" ref="jasabudi"/>
+    <file name="u22128-r.png" crc="455344400" ref="jasabudi"/>
+    <file name="u18191-6.png" crc="4222132370" ref="farmasi"/>
+    <file name="u29475-6.png" crc="4222132370" ref="toilet"/>
+  </folder>
+  <file name="index.html" crc="4037729435" seo="true" mt="1495956532882" redirect="true"/>
+  <file name="about.html" crc="505246779" seo="true" mt="1495951264288" redirect="true"/>
+  <file name="services.html" crc="4188415960" seo="true" mt="1495951264288" redirect="true"/>
+  <file name="groundfloor.html" crc="342488312" seo="true" mt="1495958259580" redirect="true"/>
+  <file name="contact.html" crc="261599298" seo="true" mt="1495951264288" redirect="true"/>
+  <file name="firstfloor.html" crc="4244460407" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="dressingroom.html" crc="341746395" seo="true" mt="1495958326841" redirect="true"/>
+  <file name="xray.html" crc="4230272746" seo="true" mt="1495958423652" redirect="true"/>
+  <file name="bilikmsyuarat.html" crc="4030255653" seo="true" mt="1495958398933" redirect="true"/>
+  <file name="vip.html" crc="3957059720" seo="true" mt="1495958386105" redirect="true"/>
+  <file name="klinikal.html" crc="3999520057" seo="true" mt="1495958378146" redirect="true"/>
+  <file name="bilikrawatan.html" crc="3758379000" seo="true" mt="1495958369841" redirect="true"/>
+  <file name="ward.html" crc="267943206" seo="true" mt="1495958360287" redirect="true"/>
+  <file name="bilikketuanurse.html" crc="4187706043" seo="true" mt="1495958344740" redirect="true"/>
+  <file name="bilikdr.html" crc="104218532" seo="true" mt="1495958336357" redirect="true"/>
+  <file name="directory.html" crc="107779974" seo="true" mt="1495956847040" redirect="true"/>
+  <file name="jasabudi.html" crc="3814181195" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="ibnusina.html" crc="4100669652" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="lab.html" crc="352669969" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="bilikaura,bilikberhntimerokok,kaunseling.html" crc="4033624055" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="fisio.html" crc="116165296" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="bedah.html" crc="15633712" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="rawatan.html" crc="3927143763" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="ro.html" crc="532786538" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="dialysis.html" crc="3979309857" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="dental.html" crc="4132927678" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="pejpentdbiran.html" crc="4189017105" seo="true" mt="1495958678621" redirect="true"/>
+  <file name="farmasi.html" crc="176224682" seo="true" mt="1495958309736" redirect="true"/>
+  <file name="toilet.html" crc="239638725" seo="true" mt="1495958894673" redirect="true"/>
+  <file name="toilet1.html" crc="385298873" seo="true" mt="1495958917705" redirect="true"/>
+</manifest>
